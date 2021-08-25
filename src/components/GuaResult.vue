@@ -19,7 +19,7 @@ export default {
     name2: String,
     desc: String,
     desc2: String,
-    change: Number
+    change: Array
   },
   computed:{
     changeGua: function(){

@@ -46,8 +46,8 @@ export default {
 
 .coin{
   border-radius:50%;
-  width: 4em;
-	height: 4em;
+  width: 3em;
+	height: 3em;
   margin-left:auto;
 	margin-right:auto;
   // margin-top:2em;
@@ -70,8 +70,8 @@ export default {
 }
 
 .head{
-  height: 4em;
-	width: 4em;
+  height: 3em;
+	width: 3em;
 	position:absolute;
   background-image: url(../assets/img/head.png);
   background-position:50% 50%;
@@ -79,8 +79,8 @@ export default {
 }
 
 .tail{
-  height: 4em;
-	width: 4em;
+  height: 3em;
+	width: 3em;
 	position:absolute;
   background-image: url(../assets/img/tail.png);
   background-position:50% 50%;
